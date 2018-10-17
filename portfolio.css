@@ -1,0 +1,192 @@
+body{
+ 
+}
+.navbar{
+  margin-bottom: 0 !important;
+  padding-bottom:0;
+ 
+}
+.navbar-inverse{
+  margin-bottom:0;
+  padding-bottom:0;
+}
+.container-fluid {
+  
+  
+}
+.navbar-name {
+  color: red;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.navbar-nav{
+ padding-top: auto;
+padding-bottom: auto;
+  vertical-align: middle;
+  
+}
+.navbar-nav li {
+  
+  height:100%;
+ }
+.image-div{
+   background-image: url(http://partenaires.esnault-geometre.fr/dossiers/webman/login_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.projects-section {
+  padding-top: 40px;
+  margin-bottom: 0px;
+  
+}
+.projects-title span{
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin-left: 50%;
+  marging-right: 50%;
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+}
+
+
+.projects-works{
+  
+  margin-top: 40px;
+ 
+}
+.image{
+  width: 250px;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: 15px;
+ 
+}
+.image1{
+  background-image: url(https://sfar.org/wp-content/uploads/2016/09/ecology.png);
+}
+.image2{
+  background-image: url(https://dl.myket.ir/newresizing/resize/medium/png/icon/com.p30soft.abdarmani_98dcf036-db48-4db3-af63-2baaea072f03.png);
+}
+.image3{ background-image: url(http://coeur-de-ville.com/images/modules/foot.png);}
+.image4 {background-image: url(http://realtorinstitute.org/wp-content/uploads/2017/01/computer.png);}
+.image5{background-image: url(https://lhpu.com/wp-content/uploads/2017/06/schedule-icon-8-1024x1024.png);}
+.image6{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZ4jygtf4trexHyhB7MzB1QnWXenB1xrRDiEELRfrb15nJO2ecQ);}
+
+.work-item h3, .work-item p {
+  color: orange;
+}
+.work-item {
+  border: 2px solid white;
+  width: 300px;
+  height: 350px;
+  
+  display:inline-block;
+  overflow: auto;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+    }
+.cont {
+    position: relative;
+    text-align: center;
+    
+  background-color: grey;
+    opacity:0.5;
+}
+.cont:hover{
+  background-color: black;
+}
+#about-section {
+  padding-top: 40px;
+  background-image:none;
+  background: #e4e4e4;
+}
+.education {
+  padding-top: 50px;
+  margin-left: 200px;
+  padding-left:10px;
+  border-left: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+.education-title {
+  font-size:20px;
+  padding-bottom: 20px;
+  color: grey;
+  font-weight: bold;
+}
+.education-element {
+  padding-bottom: 20px;
+}
+.education-element p{
+  color: black;
+}
+.education-element span {
+  color: red;
+}
+.education-element ul {
+list-style-type: none;
+}
+.contact-me-section {
+  background-image: url(http://partenaires.esnault-geometre.fr/dossiers/webman/login_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 40px;
+}
+.contact-me-form {
+  padding-bottom:40px;
+  text-align: center;
+}
+.contact-me-form input {
+  margin-top:40px;
+  width: 320px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  
+}
+.contact-me-form textarea {
+  padding-left: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.input {    border: 1px solid #2d2d2d;
+    color: #666666;
+    
+    font-size: 13px;
+    height: 45px;
+    padding-left: 10px;}
+.button {
+  
+    background: #454959;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    height: 40px;
+    text-transform: uppercase;
+    
+}
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: grey;
+  background: black;
+}
+.inputs{
+  display: inline-block;
+}
